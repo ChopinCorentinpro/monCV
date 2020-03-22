@@ -20,7 +20,7 @@
   }.menupr {
     position:absolute;
     top:110.7%;
-    left:10%;
+    left:5%;
     background-color:rgb(102, 68, 68);
     color:white;
     border:5mm ridge white;
@@ -42,7 +42,7 @@
     background-color:gray;
     border:5mm ridge white;
     top:127.2%;
-    left:10%;
+    left:5%;
     border-top:none;
     height:46.4%;
     width:35%;

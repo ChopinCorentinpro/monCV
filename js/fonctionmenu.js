@@ -1,5 +1,5 @@
 function presentation() {       
-  var elmnt = document.getElementById("num");
+  var elmnt = document.getElementById("present");
   elmnt.scrollIntoView();
   var active = document.getElementById("menu")
   active.style.visibility =('visible');
@@ -19,9 +19,11 @@ time.style.visibility = ('visible');
 var timea = document.getElementById('tmsg');
 timea.style.visibility = ('visible');
 }, 5000);
-function Dem() {
-  var rafraiche = document.getElementsByClassName("pmoi");
-  rafraiche.scrollIntoView();
+function present() {
+  var present = document.getElementById("present");
+  present.scrollIntoView();
 }
-
-
+function exper() {
+  var exper = document.getElementById("experiences");
+  exper.scrollIntoView();
+}
