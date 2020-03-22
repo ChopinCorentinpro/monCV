@@ -1,34 +1,66 @@
 <!DOCTYPE HTML>
-<html>
-    <head>
+<html onload="Dem()">
+    <head onload="Dem()">
+        <script src="js/fonctionmenu.js"></script>
         <title>CHOPIN Corentin</title>
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/p1.css">
+        <link rel="stylesheet" href="css/menu.css">
+        <link rel="stylesheet" href="css/menup.css"
 <link href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap" rel="stylesheet">
         </script>
     </head>
-    <body>
+    <body onload="Function()">
         <div id="triangle">
         </div>
-
-        <button class="bmenu"><p class="btext">Contact !</p></button>
-                    <!--Menu déroullant (code)-->
-                    <ul id="menu-deroulant">
-                        <li><a href="#">Lien menu 2</a>
-                             <ul>
-                                <li><a href="#">Lien sous menu 2</a></li>
-                                <li><a href="#">Lien sous menu 2</a></li>
-                                <li><a href="#">Lien sous menu 2</a></li>
-                                <li><a href="#">Lien sous menu 2</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                        <!--Fin du Code du menu déroulant-->
         <h1 class="titre">CHOPIN <Br>Corentin</h1>
-        <img class="pmoi" src="Image/moi.jpg">
-        <img class="next" src="Image/fleche.png" onclick="myfunction()">
-        <script src="js/fonctionmenu.js"></script>
-        <div id="experiencepro">
-            <p class="expetitre">Mes expériences professionelle</p>
-            <div class="suitexpe"></div>
-            </div>
+        <img class="pmoi" id="rafraiche" src="Image/moi.jpg">
+        <img class="next" src="Image/fleche.png" onclick="presentation()">
+        <img id="msg" src="image/Info.png" onload="timeout()"onclick="presentation()">
+        <p id="tmsg" onload="timeout">Voulez vous continuer ?<Br>Appuyez sur cette flèche !</p>
+        <div id="present"><p class="tpresent">Qui suis je ?</p>
+        <div class="presuite">
+        <p class="prenom">CHOPIN Corentin</p>
+        <img class="user" src="image/fond.png">
+        <p class="adress">45 Boulevard Pierre Daunou</p>
+        <img class="iadresse" src="image/home.png">
+        <p class="ville">62200, Boulogne-Sur-Mer</p>
+        <img class="city" src="image/city.png">
+        <p class="mail">chopincorentin.pro@</p>
+        <img class="www" src="image/www.png">
+        <p class="mail">gmail.com</p>
+        <img class="email" src="image/email.png">
+        <p id="num">07.52.25.49.28</p>
+        <img class="tel" src="image/phone.png">
+        </div>
+        </div>
+        <!--Menu déroulant-->
+        <ul><li>
+        <div class="divmenu" id="divm">
+        <a onclick="onoff()"><img id="imenu" src="image/menu.png" title="Clique moi dessus !"></a>
+        </ul></li>
+        </div>
+        <ul id="menu">
+            <li class="para"></li>
+            <ul class="sousMenu1">
+            <a onclick="presentation()">
+                <p class="lien1" class="lien">Présentation</p></a>
+                <a onclick="alerte()">
+                    <p class="lien2"class="lien">Mes expériences</p></a>
+                    <a onclick="alerte()">
+                <p class="lien3" class="lien">Mes diplômes</p></a>
+                <a onclick="alerte()">
+                    <p class="lien4" class="lien">Mes passions</p></a>
+                    <a onclick="alerte()">
+                        <p class="lien5" class="lien">Langages</p></a>
+                        <a onclick="alerte()">
+                            <p class="lien6" class="lien">Contactez-Moi !</p></a>
+                            <a onclick="alerte()" class="menup">
+                                <p class="lien7" class="lien">Menu Principale</p></a>
+                        
+            </ul>
+            </li>
+            </ul>
+        <!--fin du code-->
+        <div class="vide"></div>
+        </body>
 </html>

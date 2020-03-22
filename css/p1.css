@@ -1,0 +1,157 @@
+body {
+    background-color: #FF4500;
+  }
+  #triangle {
+    width: 0;
+    height: 0;
+    border-top: 0px solid transparent;
+    border-bottom: 910px solid transparent;
+    border-left: 690px solid white;
+    position:absolute;
+    top:0;
+    left:0;
+  }
+  .titre {
+    color: white;
+    text-align: center;
+    position: absolute;
+    right: 1%;
+    bottom: 42%;
+    font-size: 160px;
+  
+  }
+  .bmenu {
+    height:20%;
+    width:30%;
+    color:white;
+    font-size: 30px;
+    background-color: red;
+    position: absolute;
+    right: 1%;
+    top: 3%;
+    border: 4mm ridge white;
+  
+    
+  }
+  
+  .atext {
+    position: absolute;
+    bottom: -15%;
+    left:6.5%;
+  }
+  .btext {
+    position: absolute;
+    bottom: -15%;
+    left:30%;
+  }
+  .pmoi {
+    height:36%;
+    width:25%;
+    visibility:visible;
+    position:absolute;
+    top:3%;
+    left:2%;
+    border: 4mm ridge white;
+    text-align:center;
+    
+  }
+  .next {
+    height:20%;
+    width:13%;
+    position:absolute;
+    top: 80%;
+    left:44%;
+    cursor: pointer;
+  }
+  #present {
+    position:absolute;
+    top:102%;
+    right:5%;
+    text-align:center;
+    width:35%;
+    height:50%;
+  }
+  .tpresent {
+    background-color: rgb(102, 68, 68);
+    height: 30%;
+    width: 100%;
+    font-size: 80px;
+    color:white;
+    border:5mm ridge white;
+    border-bottom:none;
+  }
+  .presuite {
+    position:absolute;
+    top:50%;
+    background-color:gray;
+    border:5mm ridge white;
+    width:100%;
+    border-top:none;  
+    font-size:30px;
+    text-align:right;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;    
+  }
+  .prenom {
+    position:relative;
+    right:2%;
+  }
+  .user {
+    position:absolute;
+    height:10%;
+    top:5%;
+    left:5%;
+    visibility:visible;
+  }
+  .iadresse {
+    position:absolute;
+    bottom:70%;
+    left:05%;
+    height:10%;
+    visibility:visible;
+  }
+  .city {
+    position:absolute;
+    height:10%;
+    left:5%;
+    bottom:53%;
+    visibility:visible;
+  }
+  .tel {
+    visibility: visible;
+    position:absolute;
+    height:10%;
+    left:6%;
+    bottom:8%;
+  }
+  .email {
+    visibility: visible;
+    position:absolute;
+    height:10%;
+    left:5%;
+    top:51.5%;
+  }
+  .www {
+    position:absolute;
+    top:60%;
+    left:0%;
+    height:23%
+  }
+  #msg {
+    position:absolute;
+    right:01%;
+    top:60%;
+    height:30%;
+    visibility:hidden;
+    cursor: pointer;
+  }
+  #tmsg {
+    position:absolute;
+    Font-size:40px;
+    color:#FF4500;
+    margin-top:47.3%;
+    right:9%;
+    text-align:center;
+    visibility:hidden;
+    font-family:arial;
+  }
