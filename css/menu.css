@@ -28,6 +28,9 @@ left:40px;
 font-size:30px;
 background-color:gray;
 z-index:10;
+border:5px ridge white;
+border-top:none;
+
 }
 .lien2 {
 color:white;
@@ -41,6 +44,9 @@ left:40px;
 font-size:30px;
 background-color:gray;
 z-index:10;
+border:5px ridge white;
+border-top:none;
+border-bottom:none;
 }
 .lien3 {
 color:white;
@@ -54,6 +60,9 @@ left:40px;
 font-size:30px;
 background-color:gray;
 z-index:10;
+border:5px ridge white;
+border-top:none;
+border-bottom:none;
 }
 .lien4 {
 color:white;
@@ -67,6 +76,9 @@ left:40px;
 font-size:30px;
 background-color:gray;
 z-index:10;
+border:5px ridge white;
+border-top:none;
+border-bottom:none;
 }
 .lien5 {
 color:white;
@@ -80,6 +92,9 @@ left:40px;
 font-size:30px;
 background-color:gray;
 z-index:3;
+border:5px ridge white;
+border-top:none;
+border-bottom:none;
 }
 .lien6 {
 color:white;
@@ -93,6 +108,9 @@ left:40px;
 font-size:30px;
 background-color:gray;
 z-index:10;
+border:5px ridge white;
+border-top:none;
+border-bottom:none;
 }
 .lien7 {
 color:white;
@@ -107,7 +125,10 @@ left:40px;
 font-size:30px;
 background-color:rgb(102, 68, 68);
 z-index:10;
+border:5px ridge white;
+border-bottom:none;
 }
+
 .lien1:hover {
 color:aqua;
 }
