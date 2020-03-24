@@ -1,0 +1,496 @@
+.dipl {
+    position:absolute;;
+    top:385%;
+    background-color:rgb(102,68,68);
+    width:90%;
+    left:5%;
+    border:5mm ridge white;
+    border-bottom:none;
+    height:15%;
+}
+.diplt {
+    color:white;
+    position:absolute;
+    font-size:40px;
+    font-family:arial;
+    left:40%;
+    top:0%;
+}
+.diplsuite {
+    position:absolute;
+    top:402%;
+    background-color:gray;
+    width:90%;
+    left:5%;
+    border:5mm ridge white;
+    border-top:none;
+    height:40%;
+}
+.aa {
+    position:absolute;
+    color:white;
+    font-weight:bold;
+    font-size:25px;
+    top:1%;
+    right:2%;
+
+}
+.ab {
+    position:absolute;
+    color:white;
+    font-weight:bold;
+    font-size:25px;
+    top:7%;
+    right:2%;
+}
+.ac {
+    position:absolute;
+    color:blue;
+    font-weight:bold;
+    font-size:25px;
+    top:13%;
+    right:2%;
+}
+.ad {
+    position:absolute;
+    color:black;
+    font-weight:bold;
+    font-size:25px;
+    top:19%;
+    right:2%;
+}
+.ae {
+    position:absolute;
+    color:white;
+    font-weight:bold;
+    font-size:25px;
+    top:41%;
+    right:2%;
+}
+.af {
+    position:absolute;
+    color:white;
+    font-weight:bold;
+    font-size:25px;
+    top:47%;
+    right:2%;
+}
+.ag {
+    position:absolute;
+    color:blue;
+    font-weight:bold;
+    font-size:25px;
+    top:53%;
+    right:2%;
+}
+.ah {
+    position:absolute;
+    color:black;
+    font-weight:bold;
+    font-size:25px;
+    top:59%;
+    right:2%;
+}
+.passion {
+    position:absolute;
+    top:460%;
+    background-color:rgb(102,68,68);
+    left:5%;
+    width:30%;
+    height:15%;
+    border:5mm ridge white;
+    border-bottom:none;
+
+}
+.passiont {
+    position:absolute;
+    color:white;
+    font-size:40px;
+    font-family:arial;
+    top:-14%;
+    text-align:center
+}
+.passionsuite {
+    position:absolute;
+    background-color:gray;
+    top:477%;
+    left:5%;
+    height:35%;
+    width:30%;
+    border:5mm ridge white;
+    border-top:none;
+}
+.ai {
+font-weight:bold;
+position:absolute;
+color:white;
+right:35%;
+font-size:25px;
+}
+.aj {
+font-weight:bold;
+position:absolute;
+color:white;
+right:16%;
+font-size:25px;
+top:13%;
+}
+.ak {
+font-weight:bold;
+position:absolute;
+color:white;
+right:18%;
+top:25%;
+font-size:25px;
+}
+.al {
+font-weight:bold;
+position:absolute;
+color:white;
+right:43%;
+top:37%;
+font-size:25px;
+}
+.am {
+font-weight:bold;
+position:absolute;
+color:white;
+right:35%;
+top:49%;
+font-size:25px;
+}
+.an {
+font-weight:bold;
+position:absolute;
+color:white;
+right:38%;
+top:61%;
+font-size:25px;
+}
+.langue {
+    position:absolute;
+    top:460%;
+    background-color:rgb(102,68,68);
+    right:5%;
+    width:30%;
+    height:15%;
+    border:5mm ridge white;
+    border-bottom:none;
+
+}
+.languet {
+    position:absolute;
+    color:white;
+    font-size:40px;
+    font-family:arial;
+    left:29%;
+}
+.languesuite {
+    position:absolute;
+    background-color:gray;
+    top:477%;
+    right:5%;
+    height:35%;
+    width:30%;
+    border:5mm ridge white;
+    border-top:none;
+}
+.ba {
+    color:white;
+    position:absolute;
+    font-size:25px;
+    font-family:arial;
+    font-weight:bold;
+    left:37%;
+}
+.bb {
+    font-weight:bold;
+    position:absolute;
+    color:white;
+    right:17.2%;
+    top:487%;
+    font-size:25px;
+    font-family:arial;
+}
+#anglais {
+position:absolute;
+top:485%;
+right:15%;
+width:250px;
+}
+.baa {
+    position:absolute;
+    color:white;
+    font-family:arial;
+    font-weight:bold;
+    top:481.6%;
+    font-size:25px;
+    right:9%
+}.dipl {
+    position:absolute;;
+    top:385%;
+    background-color:rgb(102,68,68);
+    width:90%;
+    left:5%;
+    border:5mm ridge white;
+    border-bottom:none;
+    height:15%;
+}
+.diplt {
+    color:white;
+    position:absolute;
+    font-size:40px;
+    font-family:arial;
+    left:40%;
+    top:0%;
+}
+.diplsuite {
+    position:absolute;
+    top:402%;
+    background-color:gray;
+    width:90%;
+    left:5%;
+    border:5mm ridge white;
+    border-top:none;
+    height:40%;
+}
+.aa {
+    position:absolute;
+    color:white;
+    font-weight:bold;
+    font-size:25px;
+    top:1%;
+    right:2%;
+
+}
+.ab {
+    position:absolute;
+    color:white;
+    font-weight:bold;
+    font-size:25px;
+    top:7%;
+    right:2%;
+}
+.ac {
+    position:absolute;
+    color:blue;
+    font-weight:bold;
+    font-size:25px;
+    top:13%;
+    right:2%;
+}
+.ad {
+    position:absolute;
+    color:black;
+    font-weight:bold;
+    font-size:25px;
+    top:19%;
+    right:2%;
+}
+.ae {
+    position:absolute;
+    color:white;
+    font-weight:bold;
+    font-size:25px;
+    top:41%;
+    right:2%;
+}
+.af {
+    position:absolute;
+    color:white;
+    font-weight:bold;
+    font-size:25px;
+    top:47%;
+    right:2%;
+}
+.ag {
+    position:absolute;
+    color:blue;
+    font-weight:bold;
+    font-size:25px;
+    top:53%;
+    right:2%;
+}
+.ah {
+    position:absolute;
+    color:black;
+    font-weight:bold;
+    font-size:25px;
+    top:59%;
+    right:2%;
+}
+.passion {
+    position:absolute;
+    top:460%;
+    background-color:rgb(102,68,68);
+    left:5%;
+    width:30%;
+    height:15%;
+    border:5mm ridge white;
+    border-bottom:none;
+
+}
+.passiont {
+    position:absolute;
+    color:white;
+    font-size:40px;
+    font-family:arial;
+    top:-14%;
+    text-align:center
+}
+.passionsuite {
+    position:absolute;
+    background-color:gray;
+    top:477%;
+    left:5%;
+    height:35%;
+    width:30%;
+    border:5mm ridge white;
+    border-top:none;
+}
+.ai {
+font-weight:bold;
+position:absolute;
+color:white;
+right:35%;
+font-size:25px;
+}
+.aj {
+font-weight:bold;
+position:absolute;
+color:white;
+right:16%;
+font-size:25px;
+top:13%;
+}
+.ak {
+font-weight:bold;
+position:absolute;
+color:white;
+right:18%;
+top:25%;
+font-size:25px;
+}
+.al {
+font-weight:bold;
+position:absolute;
+color:white;
+right:43%;
+top:37%;
+font-size:25px;
+}
+.am {
+font-weight:bold;
+position:absolute;
+color:white;
+right:35%;
+top:49%;
+font-size:25px;
+}
+.an {
+font-weight:bold;
+position:absolute;
+color:white;
+right:38%;
+top:61%;
+font-size:25px;
+}
+.langue {
+    position:absolute;
+    top:460%;
+    background-color:rgb(102,68,68);
+    right:2%;
+    width:30%;
+    height:15%;
+    border:5mm ridge white;
+    border-bottom:none;
+
+}
+.languet {
+    position:absolute;
+    color:white;
+    font-size:40px;
+    font-family:arial;
+    left:29%;
+}
+.languesuite {
+    position:absolute;
+    background-color:gray;
+    top:477%;
+    right:2%;
+    height:35%;
+    width:30%;
+    border:5mm ridge white;
+    border-top:none;
+}
+.ba {
+    color:white;
+    position:absolute;
+    font-size:25px;
+    font-family:arial;
+    font-weight:bold;
+    left:24%;
+}
+.bb {
+    font-weight:bold;
+    position:absolute;
+    color:white;
+    right:18%;
+    top:487%;
+    font-size:25px;
+    font-family:arial;
+}
+#anglais {
+position:absolute;
+top:485%;
+right:12%;
+width:250px;
+}
+#espagnol {
+    position:absolute;
+top:495%;
+right:12%;
+width:250px;
+}
+.baa {
+    position:absolute;
+    color:white;
+    font-family:arial;
+    font-weight:bold;
+    top:481.6%;
+    font-size:25px;
+    right:5%
+}
+.bba {
+    position:absolute;
+    color:white;
+    font-family:arial;
+    font-weight:bold;
+    top:491.6%;
+    font-size:25px;
+    right:5%
+}
+.bc {
+    font-weight:bold;
+    position:absolute;
+    color:white;
+    right:18%;
+    top:497%;
+    font-size:25px;
+    font-family:arial;
+}
+#francais {
+position:absolute;
+top:505%;
+right:12%;
+width:250px;
+}
+.bca {
+    font-weight:bold;
+    position:absolute;
+    color:white;
+    right:5%;
+    top:501.6%;
+    font-size:25px;
+    font-family:arial;
+}

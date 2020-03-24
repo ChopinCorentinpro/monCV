@@ -27,3 +27,11 @@ function exper() {
   var exper = document.getElementById("experiences");
   exper.scrollIntoView();
 }
+function dipl() {
+  var exper = document.getElementById("diplome");
+  exper.scrollIntoView();
+}
+function passion() {
+  var exper = document.getElementById("passion");
+  exper.scrollIntoView();
+}
